@@ -32,4 +32,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/varunpant18/LeetCode/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
