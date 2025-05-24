@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/varunpant18/LeetCode/tree/master/0027-remove-element) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/varunpant18/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
