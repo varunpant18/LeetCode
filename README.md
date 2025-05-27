@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/varunpant18/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/varunpant18/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/varunpant18/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varunpant18/LeetCode/tree/master/0326-power-of-three) |
