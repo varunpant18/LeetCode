@@ -25,6 +25,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/varunpant18/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/varunpant18/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@
 | [0027-remove-element](https://github.com/varunpant18/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/varunpant18/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/varunpant18/LeetCode/tree/master/0283-move-zeroes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
