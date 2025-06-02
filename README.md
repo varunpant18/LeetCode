@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/varunpant18/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/varunpant18/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/varunpant18/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varunpant18/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varunpant18/LeetCode/tree/master/0342-power-of-four) |
@@ -55,6 +56,7 @@
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunpant18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/varunpant18/LeetCode/tree/master/0283-move-zeroes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -65,6 +67,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/varunpant18/LeetCode/tree/master/0035-search-insert-position) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
