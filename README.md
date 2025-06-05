@@ -58,12 +58,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunpant18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/varunpant18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/varunpant18/LeetCode/tree/master/0283-move-zeroes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunpant18/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/varunpant18/LeetCode/tree/master/0217-contains-duplicate) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/varunpant18/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
