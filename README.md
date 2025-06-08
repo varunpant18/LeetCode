@@ -10,6 +10,7 @@
 | [0069-sqrtx](https://github.com/varunpant18/LeetCode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/varunpant18/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/varunpant18/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varunpant18/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/varunpant18/LeetCode/tree/master/1013-fibonacci-number) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/varunpant18/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/varunpant18/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@
 | [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/varunpant18/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varunpant18/LeetCode/tree/master/0283-move-zeroes) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -68,6 +71,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/varunpant18/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/varunpant18/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -87,6 +91,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/varunpant18/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/varunpant18/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -96,4 +101,5 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/varunpant18/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
