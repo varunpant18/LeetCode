@@ -67,6 +67,7 @@
 | [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varunpant18/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/varunpant18/LeetCode/tree/master/0792-binary-search) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/varunpant18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
