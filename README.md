@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/varunpant18/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -144,4 +145,16 @@
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/varunpant18/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
