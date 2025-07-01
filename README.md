@@ -67,6 +67,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varunpant18/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/varunpant18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunpant18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
@@ -110,6 +111,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varunpant18/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/varunpant18/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/varunpant18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/varunpant18/LeetCode/tree/master/0792-binary-search) |
 ## Number Theory
@@ -167,4 +169,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/varunpant18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
