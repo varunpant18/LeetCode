@@ -146,6 +146,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varunpant18/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/varunpant18/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/varunpant18/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
