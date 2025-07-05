@@ -69,6 +69,7 @@
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/varunpant18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunpant18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunpant18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/varunpant18/LeetCode/tree/master/0169-majority-element) |
@@ -134,6 +135,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunpant18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/varunpant18/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunpant18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -175,10 +178,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunpant18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/varunpant18/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunpant18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
