@@ -67,6 +67,7 @@
 | [0031-next-permutation](https://github.com/varunpant18/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varunpant18/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/varunpant18/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/varunpant18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunpant18/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/varunpant18/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/varunpant18/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/varunpant18/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varunpant18/LeetCode/tree/master/0219-contains-duplicate-ii) |
