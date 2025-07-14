@@ -21,6 +21,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/varunpant18/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/varunpant18/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/varunpant18/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/varunpant18/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varunpant18/LeetCode/tree/master/0342-power-of-four) |
@@ -171,6 +172,7 @@
 | [0061-rotate-list](https://github.com/varunpant18/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varunpant18/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/varunpant18/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/varunpant18/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
