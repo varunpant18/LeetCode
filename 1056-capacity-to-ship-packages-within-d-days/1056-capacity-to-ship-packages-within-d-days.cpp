@@ -14,14 +14,14 @@ public:
 
         while (low < high) {
             int mid = low + (high - low) / 2;
-            int d = 1, sum = 0;
+            int d = 1, cap = 0;
 
             for (int weight : weights) {
-                if (sum + weight > mid) {
+                if (cap + weight > mid) {
                     d++;
-                    sum = 0;
+                    cap = 0;
                 }
-                sum += weight;
+                cap += weight;
             }
 
             if (d > days) {
