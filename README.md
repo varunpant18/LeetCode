@@ -90,6 +90,7 @@
 | [0414-third-maximum-number](https://github.com/varunpant18/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunpant18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0792-binary-search](https://github.com/varunpant18/LeetCode/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/varunpant18/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varunpant18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -140,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/varunpant18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/varunpant18/LeetCode/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/varunpant18/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Number Theory
 |  |
 | ------- |
