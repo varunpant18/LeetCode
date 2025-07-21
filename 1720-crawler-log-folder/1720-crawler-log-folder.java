@@ -12,7 +12,7 @@ class Solution {
         }
         int cnt=0;
         while(!st.isEmpty()){
-            System.out.print(st.pop());
+            st.pop();
             cnt++;
         }
         return cnt;
