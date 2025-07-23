@@ -52,6 +52,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/varunpant18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/varunpant18/LeetCode/tree/master/0742-to-lower-case) |
 | [1720-crawler-log-folder](https://github.com/varunpant18/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Stack
@@ -131,6 +132,7 @@
 | [0031-next-permutation](https://github.com/varunpant18/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/varunpant18/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/varunpant18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/varunpant18/LeetCode/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/varunpant18/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varunpant18/LeetCode/tree/master/0283-move-zeroes) |
