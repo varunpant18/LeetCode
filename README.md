@@ -55,6 +55,7 @@
 | [0125-valid-palindrome](https://github.com/varunpant18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/varunpant18/LeetCode/tree/master/0742-to-lower-case) |
 | [1720-crawler-log-folder](https://github.com/varunpant18/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0503-next-greater-element-ii](https://github.com/varunpant18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/varunpant18/LeetCode/tree/master/0682-baseball-game) |
 | [1720-crawler-log-folder](https://github.com/varunpant18/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2573-remove-nodes-from-linked-list](https://github.com/varunpant18/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -235,4 +237,5 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/varunpant18/LeetCode/tree/master/0682-baseball-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
