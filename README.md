@@ -54,6 +54,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/varunpant18/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/varunpant18/LeetCode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/varunpant18/LeetCode/tree/master/0742-to-lower-case) |
 | [1720-crawler-log-folder](https://github.com/varunpant18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -141,6 +142,7 @@
 | [0189-rotate-array](https://github.com/varunpant18/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varunpant18/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varunpant18/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/varunpant18/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varunpant18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0908-middle-of-the-linked-list) |
