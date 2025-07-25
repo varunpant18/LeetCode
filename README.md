@@ -50,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/varunpant18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/varunpant18/LeetCode/tree/master/0125-valid-palindrome) |
@@ -59,6 +60,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/varunpant18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/varunpant18/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/varunpant18/LeetCode/tree/master/0143-reorder-list) |
