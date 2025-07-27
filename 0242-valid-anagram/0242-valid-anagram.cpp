@@ -14,7 +14,6 @@ public:
             }
         }
 
-        // Check if all counts are zero
         for (i = 0; i < 26; i++) {
             if (H[i] != 0) {
                 return false;
