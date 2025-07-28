@@ -59,6 +59,7 @@
 | [0344-reverse-string](https://github.com/varunpant18/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varunpant18/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/varunpant18/LeetCode/tree/master/0742-to-lower-case) |
 | [1720-crawler-log-folder](https://github.com/varunpant18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -129,6 +130,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunpant18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -154,6 +156,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/varunpant18/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varunpant18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -204,6 +207,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/varunpant18/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
