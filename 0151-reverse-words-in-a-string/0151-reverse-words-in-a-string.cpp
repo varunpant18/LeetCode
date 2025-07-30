@@ -1,17 +1,14 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        // Step 1: Remove leading/trailing/multiple spaces
         string st;
         int i = 0;
         while (i < s.size()) {
-            // Skip leading spaces
             while (i < s.size() && s[i] == ' ')
                 i++;
             if (i >= s.size())
                 break;
 
-            // Add word
             if (!st.empty())
                 st += ' ';
             while (i < s.size() && s[i] != ' ')
