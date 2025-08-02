@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/varunpant18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/varunpant18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varunpant18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunpant18/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/varunpant18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/varunpant18/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/varunpant18/LeetCode/tree/master/0031-next-permutation) |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varunpant18/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/varunpant18/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
