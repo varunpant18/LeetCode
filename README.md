@@ -124,6 +124,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/varunpant18/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1720-crawler-log-folder](https://github.com/varunpant18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/varunpant18/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/varunpant18/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/varunpant18/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -278,6 +279,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/varunpant18/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/varunpant18/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Queue
 |  |
 | ------- |
