@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/varunpant18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/varunpant18/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/varunpant18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/varunpant18/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/varunpant18/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/varunpant18/LeetCode/tree/master/0069-sqrtx) |
@@ -58,6 +59,7 @@
 | [0014-longest-common-prefix](https://github.com/varunpant18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varunpant18/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/varunpant18/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/varunpant18/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/varunpant18/LeetCode/tree/master/0125-valid-palindrome) |
@@ -278,6 +280,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/varunpant18/LeetCode/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/varunpant18/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/varunpant18/LeetCode/tree/master/2058-concatenation-of-array) |
