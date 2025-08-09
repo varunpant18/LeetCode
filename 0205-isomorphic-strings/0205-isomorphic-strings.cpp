@@ -3,8 +3,8 @@ public:
     bool isIsomorphic(string s, string t) {
         if (s.size() != t.size()) return false;
 
-        int mapS[256] = {0};  // Mapping from s to t
-        int mapT[256] = {0};  // Mapping from t to s
+        int mapS[256] = {0};  
+        int mapT[256] = {0};  
 
         for (int i = 0; i < s.size(); i++) {
             char c1 = s[i];
