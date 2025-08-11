@@ -69,6 +69,7 @@
 | [0344-reverse-string](https://github.com/varunpant18/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varunpant18/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/varunpant18/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/varunpant18/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
@@ -148,6 +149,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunpant18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -210,6 +212,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/varunpant18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/varunpant18/LeetCode/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,6 +223,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/varunpant18/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/varunpant18/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## String Matching
 |  |
@@ -300,4 +304,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varunpant18/LeetCode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
