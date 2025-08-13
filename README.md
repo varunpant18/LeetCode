@@ -10,6 +10,7 @@
 | [0043-multiply-strings](https://github.com/varunpant18/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/varunpant18/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/varunpant18/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/varunpant18/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/varunpant18/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
@@ -38,6 +39,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/varunpant18/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/varunpant18/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/varunpant18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
@@ -61,6 +63,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/varunpant18/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/varunpant18/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/varunpant18/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/varunpant18/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/varunpant18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -289,6 +292,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/varunpant18/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/varunpant18/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/varunpant18/LeetCode/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/varunpant18/LeetCode/tree/master/2058-concatenation-of-array) |
