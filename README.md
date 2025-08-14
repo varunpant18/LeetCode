@@ -45,6 +45,7 @@
 | [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/varunpant18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/varunpant18/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/varunpant18/LeetCode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0344-reverse-string](https://github.com/varunpant18/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varunpant18/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/varunpant18/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/varunpant18/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/varunpant18/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -151,6 +153,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/varunpant18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/varunpant18/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunpant18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
@@ -214,6 +217,7 @@
 | [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varunpant18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/varunpant18/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/varunpant18/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
