@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/varunpant18/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/varunpant18/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/varunpant18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varunpant18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/varunpant18/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/varunpant18/LeetCode/tree/master/0050-powx-n) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/varunpant18/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/varunpant18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varunpant18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/varunpant18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varunpant18/LeetCode/tree/master/0020-valid-parentheses) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varunpant18/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/varunpant18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varunpant18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/varunpant18/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/varunpant18/LeetCode/tree/master/0169-majority-element) |
