@@ -17,6 +17,7 @@
 | [0204-count-primes](https://github.com/varunpant18/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/varunpant18/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/varunpant18/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/varunpant18/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/varunpant18/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/varunpant18/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/varunpant18/LeetCode/tree/master/1013-fibonacci-number) |
@@ -325,4 +326,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/varunpant18/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/varunpant18/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
