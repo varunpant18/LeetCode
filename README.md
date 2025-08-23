@@ -150,6 +150,7 @@
 | [0012-integer-to-roman](https://github.com/varunpant18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/varunpant18/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/varunpant18/LeetCode/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varunpant18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/varunpant18/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/varunpant18/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/varunpant18/LeetCode/tree/master/0217-contains-duplicate) |
@@ -182,6 +183,7 @@
 | [0125-valid-palindrome](https://github.com/varunpant18/LeetCode/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/varunpant18/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/varunpant18/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varunpant18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/varunpant18/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/varunpant18/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/varunpant18/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -257,6 +259,7 @@
 | [0061-rotate-list](https://github.com/varunpant18/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varunpant18/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/varunpant18/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varunpant18/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/varunpant18/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
