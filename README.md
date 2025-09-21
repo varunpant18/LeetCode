@@ -53,6 +53,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/varunpant18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunpant18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/varunpant18/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -118,6 +119,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/varunpant18/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/varunpant18/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/varunpant18/LeetCode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/varunpant18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/varunpant18/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/varunpant18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/varunpant18/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/varunpant18/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/varunpant18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varunpant18/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/varunpant18/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/varunpant18/LeetCode/tree/master/0169-majority-element) |
