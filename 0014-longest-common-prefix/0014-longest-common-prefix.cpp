@@ -1,14 +1,26 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+
 class Solution {
- public:
-  string longestCommonPrefix(vector<string>& strs) {
-    if (strs.empty())
-      return "";
+public:
+    std::string longestCommonPrefix(std::vector<std::string>& strs) {
+        if (strs.empty()) return "";
 
-    for (int i = 0; i < strs[0].length(); ++i)
-      for (int j = 1; j < strs.size(); ++j)
-        if (i == strs[j].length() || strs[j][i] != strs[0][i])
-          return strs[0].substr(0, i);
+        std::sort(strs.begin(), strs.end());
 
-    return strs[0];
-  }
+        const std::string& first = strs.front();
+        const std::string& last = strs.back();
+        std::string result;
+
+        for (size_t i = 0; i < first.size(); ++i) {
+            if (i >= last.size() || first[i] != last[i]) {
+                break;
+            }
+            result += first[i];
+        }
+
+        return result;
+    }
 };
