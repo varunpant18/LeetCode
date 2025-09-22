@@ -55,6 +55,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/varunpant18/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varunpant18/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/varunpant18/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/varunpant18/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -140,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/varunpant18/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/varunpant18/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/varunpant18/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunpant18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/varunpant18/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/varunpant18/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -248,6 +250,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/varunpant18/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/varunpant18/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/varunpant18/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/varunpant18/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
@@ -396,4 +399,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/varunpant18/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/varunpant18/LeetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
