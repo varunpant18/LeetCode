@@ -146,6 +146,7 @@
 | [0485-max-consecutive-ones](https://github.com/varunpant18/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/varunpant18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunpant18/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/varunpant18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/varunpant18/LeetCode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/varunpant18/LeetCode/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/varunpant18/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -179,6 +180,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varunpant18/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/varunpant18/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/varunpant18/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/varunpant18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/varunpant18/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -403,4 +405,8 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/varunpant18/LeetCode/tree/master/0435-non-overlapping-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/varunpant18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
