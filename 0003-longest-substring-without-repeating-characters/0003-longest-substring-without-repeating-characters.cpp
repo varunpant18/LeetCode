@@ -1,21 +1,29 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int H[255]; 
-        fill(H, H + 255, -1); 
-
-        int l = 0, r = 0, maxLen = 0;
+        int h[256] = {0}; 
+        int l = 0, r = 0;
+        int maxx = 0;
+        int len = 0;
 
         while (r < s.size()) {
-            if (H[s[r]] != -1 && H[s[r]] >= l) {
-                l = H[s[r]] + 1;
+            h[s[r]] += 1;
+
+            if (h[s[r]] == 1) {
+                len = r - l + 1;
+                maxx = max(len, maxx);
+            } else {
+                while (h[s[r]] > 1) {
+                    h[s[l]] -= 1;
+                    l++;
+                }
+                len = r - l + 1;
+                maxx = max(len, maxx);
             }
 
-            maxLen = max(maxLen, r - l + 1);
-            H[s[r]] = r;
             r++;
         }
 
-        return maxLen;
+        return maxx;
     }
 };
