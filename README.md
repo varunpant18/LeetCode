@@ -89,6 +89,7 @@
 | [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/varunpant18/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/varunpant18/LeetCode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/varunpant18/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/varunpant18/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1720-crawler-log-folder](https://github.com/varunpant18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -106,6 +107,7 @@
 | [0496-next-greater-element-i](https://github.com/varunpant18/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varunpant18/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/varunpant18/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/varunpant18/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/varunpant18/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/varunpant18/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -217,6 +219,7 @@
 | [0541-reverse-string-ii](https://github.com/varunpant18/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/varunpant18/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/varunpant18/LeetCode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/varunpant18/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/varunpant18/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/varunpant18/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/varunpant18/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -365,6 +368,7 @@
 | [0043-multiply-strings](https://github.com/varunpant18/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/varunpant18/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/varunpant18/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/varunpant18/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/varunpant18/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/varunpant18/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Queue
