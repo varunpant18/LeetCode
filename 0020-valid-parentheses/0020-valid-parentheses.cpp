@@ -8,6 +8,7 @@ public:
                 st.push(s[i]);
             }
             else {
+                //check if the stack is empty this means that their is no opening bracket in the given string
                 if (st.size() == 0) {
                     return false;
                 }
@@ -23,6 +24,6 @@ public:
             }
         }
 
-        return st.size() == 0;
+        return st.empty();
     }
 };
