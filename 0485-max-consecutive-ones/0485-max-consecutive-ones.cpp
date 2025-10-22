@@ -4,15 +4,19 @@ public:
         int count = 0;
         int tempcount = 0;
 
-        for (int i = 0; i < nums.size(); ++i) {
-            if (nums[i] == 1) {
-                tempcount++;
-                count = max(count, tempcount);
-            } else {
-                tempcount = 0;
+        for(int i = 0; i < nums.size(); i++)
+        {
+            if(nums[i] == 1)
+            {
+                count++;
+                tempcount = max(tempcount, count);
+            }
+            else
+            {
+                count = 0;
             }
         }
 
-        return count;
+        return tempcount;
     }
 };
